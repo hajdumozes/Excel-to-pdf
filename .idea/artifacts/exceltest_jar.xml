@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="exceltest:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/exceltest_jar</output-path>
+    <root id="archive" name="exceltest.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="exceltest" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/aspose/aspose-cells/18.10/aspose-cells-18.10.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
